@@ -1,5 +1,5 @@
 #wget https://github.com/${GitUser}/
-GitUser="huaweipadu"
+GitUser="Rahameunse"
 # Color Validation
 Lred='\e[1;91m'
 Lgreen='\e[92m'
