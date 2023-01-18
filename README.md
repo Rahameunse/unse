@@ -100,7 +100,7 @@ systemctl restart wg-quick@wg0
 
 ## Credit :
 
-*   HANGTUAH
+*   unse
 
 *   Project D
 
