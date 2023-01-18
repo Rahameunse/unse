@@ -1,7 +1,7 @@
 # By PAKYAVPN
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="huaweipadu"
+GitUser="Rahameunse"
 
 # // initializing var
 export DEBIAN_FRONTEND=noninteractive
@@ -21,7 +21,7 @@ commonname="PAKYAVPN"
 email="admin@pakya.com"
 
 # // simple password minimal
-wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/${GitUser}/hangtuah/main/password"
+wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/${GitUser}/unse/main/password"
 chmod +x /etc/pam.d/common-password
 
 # // go to root
